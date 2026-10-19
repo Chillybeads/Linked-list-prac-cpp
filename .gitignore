@@ -1,0 +1,19 @@
+# Build output
+*.o
+*.obj
+*.exe
+*.out
+a.out
+prac
+build/
+bin/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+#Documents
+*.pdf
