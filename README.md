@@ -37,7 +37,7 @@ int main() {
 ## Build
 
 ```bash
-g++ -std=c++11 main.cpp -o prac
+g++ -std=c++98 main.cpp -o prac
 ./prac
 ```
 
